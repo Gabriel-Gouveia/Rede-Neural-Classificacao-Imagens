@@ -7,10 +7,10 @@ A rede neural possui seis neurônios na camada de entrada e duas camadas ocultas
 
 # Bibliotecas utilizadas
 
-TensorFlow 2.11.0
-Pandas 
-NumPy
-Scikit-Learn
-MatPlotLib
-Seaborn
+TensorFlow 2.11.0 <br>
+Pandas <br>
+NumPy <br>
+Scikit-Learn <br>
+MatPlotLib <br>
+Seaborn <br>
 
